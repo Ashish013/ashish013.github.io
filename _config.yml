@@ -135,7 +135,7 @@ related_blog_posts:
 # the information below.
 giscus:
   repo: Ashish013/ashish013.github.io    # <your-github-user-name>/<your-github-repo-name>
-  data-repo-id: DIC_kwDOK9LMVc4Cb956
+  data-repo-id: R_kgDOK9LMVQ
   category: Comments             # name of the category under which discussions will be created
   data-category-id: DIC_kwDOK9LMVc4Cb956
   mapping: title                 # identify discussions by post title
