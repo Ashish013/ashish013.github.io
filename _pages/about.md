@@ -16,6 +16,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am pursuing my master's at Carnegie Mellon University, majoring in AI/NLP. Previously, I interned at the [Content Distribution](https://www.sonyresearchindia.com/research-areas/#sec3) team at Sony Research India, the [STARS](https://team.inria.fr/stars/en/research/) Team at INRIA and the AI team at [HyperVerge](https://hyperverge.co/). My broad research interests are working at the intersection of vision and language to design better world models. I'm particularly interested in making these algorithms to be parameter-efficient and accessible. Apart from academics, I enjoy photography, roller skating and playing the ukulele in my spare time.
+Hello, I’m a masters student in CMU SCS, studying AI and NLP. I am passionate about building improved and efficient world models at the intersection of vision and language. In the past, I’ve interned with the [Content Distribution](https://www.sonyresearchindia.com/research-areas/#sec3) team at Sony Research India, the [STARS](https://team.inria.fr/stars/en/research/) Team at INRIA and the AI team at [HyperVerge](https://hyperverge.co/).
 
-**I am currently looking for internships in VLM/LLM and Image generation**. If you're interested in hiring or want to chat in general, shoot me an email. 
+My broad interests span Multimodal AI, Vision/Large Language Models (VLM/LLM), and Gen AI. **I’m actively seeking ML Engineer/Researcher internships for Summer 2025**. If you're interested in hiring or want to chat in general, feel free to shoot me an email.
