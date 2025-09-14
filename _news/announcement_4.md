@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Starting my masters in NLP/ML at Carnegie Mellon University :yawning_face::airplane:
+Starting my masters in AI at Carnegie Mellon University :airplane:
