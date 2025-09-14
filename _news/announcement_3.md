@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my internship at Sony Research India :sparkles:
+Started my internship at Sony Research India
